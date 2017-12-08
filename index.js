@@ -7,6 +7,7 @@
  * 実質50行くらいしか無いのに1.5時間もかかってしまった...
  */
 window.onload = () => Musics.split("\n").filter(v => v !== "").reduce((pv, cv) => {
+	cv = cv.trim();
 	if (cv.startsWith("# ")) {
 		if (pv) document.getElementById("root").appendChild(pv);
 		pv = document.createElement("div");
