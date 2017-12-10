@@ -19,9 +19,10 @@ Musics = `
 - Happy Synthesizer(ハッピーシンセサイザ English ver.) :巡音ルカ / GUMI https://www.youtube.com/watch?v=VXrptLI1lck
 - 恋の魔法 :ぱなまん / TOKOTOKO（西沢さんP） https://www.youtube.com/watch?v=d0rwL3hLBjs
 - ハロ／ハワユ :初音ミク https://www.youtube.com/watch?v=icFeeQqWAdw
-- 【立体音響】リニューアルBad Apple!! https://www.youtube.com/watch?v=9iUaKmn8xSk
+- DAYBREAK FRONTLINE :Orangestar / IA
 
 # 東方アレンジs
+- 【立体音響】リニューアルBad Apple!! https://www.youtube.com/watch?v=9iUaKmn8xSk
 - Crazy of Scarlet :魂音泉 ill.bell / ｙｔｒ https://www.youtube.com/watch?v=MHlj_KroeqY
 - THE SECOND COOL :RainyBlueBell https://www.youtube.com/watch?v=T7WfTjkdFuM 
 - 愛き夜道 :ランコ / らっぷびと https://www.youtube.com/watch?v=V6saOsEKLKQ
@@ -36,6 +37,6 @@ Musics = `
 - [BGA] MilK [BOFU2015] https://www.youtube.com/watch?v=2CJw_rihu5s
 - Chocological :Mili  https://www.youtube.com/watch?v=7mIUHWR6vIc
 
-# BackGroundMusic(not SOUND)
+# BackGroundMusic(not RYTHEM)
 - A 440 Hz (Pitch Standard) Tone For Instrument Tuning https://www.youtube.com/watch?v=rFOl-9SNxLY
 `
