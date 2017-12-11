@@ -19,7 +19,8 @@ Musics = `
 - Happy Synthesizer(ハッピーシンセサイザ English ver.) :巡音ルカ / GUMI https://www.youtube.com/watch?v=VXrptLI1lck
 - 恋の魔法 :ぱなまん / TOKOTOKO（西沢さんP） https://www.youtube.com/watch?v=d0rwL3hLBjs
 - ハロ／ハワユ :初音ミク https://www.youtube.com/watch?v=icFeeQqWAdw
-- DAYBREAK FRONTLINE :Orangestar / IA
+- DAYBREAK FRONTLINE :Orangestar / IA https://www.youtube.com/watch?v=emrt46SRyYs
+- さみしくてしにそうだ(2017.ver) :GUMI / 100回嘔吐 https://www.youtube.com/watch?v=hA-YhBLEcpA
 
 # 東方アレンジs
 - 【立体音響】リニューアルBad Apple!! https://www.youtube.com/watch?v=9iUaKmn8xSk
