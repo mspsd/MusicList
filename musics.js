@@ -19,18 +19,18 @@ Musics = `
 - まさに・・・まさに・・・女神サマ！！ :Miku / UtataP https://www.youtube.com/watch?v=7k85KoUrsMw
 - キミのことが好きでゴメンナサイ :IA / うたたP https://www.youtube.com/watch?v=BeTQMa96_mk
 - ハッピーシンセサイザ :巡音ルカ / GUMI https://www.youtube.com/watch?v=poiZSEjQBgw
-- Happy Synthesizer(ハッピーシンセサイザ English ver.) :巡音ルカ / GUMI https://www.youtube.com/watch?v=VXrptLI1lck
+- ハッピーシンセサイザ English ver. :巡音ルカ / GUMI https://www.youtube.com/watch?v=VXrptLI1lck
 - 恋の魔法 :ぱなまん / TOKOTOKO（西沢さんP） https://www.youtube.com/watch?v=d0rwL3hLBjs
 - ハロ／ハワユ :初音ミク https://www.youtube.com/watch?v=icFeeQqWAdw
 - DAYBREAK FRONTLINE :Orangestar / IA https://www.youtube.com/watch?v=emrt46SRyYs
 - さみしくてしにそうだ(2017.ver) :GUMI / 100回嘔吐 https://www.youtube.com/watch?v=hA-YhBLEcpA
-- 【HD】拝啓ドッペルゲンガー 【KEMU VOXX】Dear Doppelganger https://www.youtube.com/watch?v=grdy6rLbQ-c
-- Yasuha. - I Lost Your Love feat. Hatsune Miku　【初音ミク】キミを失って【オリジナル曲】 https://www.youtube.com/watch?v=sl1Hb2zl4V4
-- 【GUMI(40㍍)】 シリョクケンサ Eye Examination【オリジナル】 https://www.youtube.com/watch?v=aB-pIUzPB-I
+- 【HD】拝啓ドッペルゲンガー 【KEMU VOXX】 https://www.youtube.com/watch?v=grdy6rLbQ-c
+- 【初音ミク】キミを失って【オリジナル曲】 https://www.youtube.com/watch?v=sl1Hb2zl4V4
+- 【GUMI(40㍍)】 シリョクケンサ　【オリジナル】 https://www.youtube.com/watch?v=aB-pIUzPB-I
 
 # 歌い手
 - 〔れをる〕 一心不乱 〔feat ill.bell,nqrse〕 https://www.youtube.com/watch?v=JES55S-l5RM
-- [実況者が歌う] ピースサイン/米津玄師 「ヒロアカ」歌ってみた。 https://www.youtube.com/watch?v=HUbCXrobSIY
+- [実況者が歌う] ピースサイン/米津玄師　歌ってみた。 https://www.youtube.com/watch?v=HUbCXrobSIY
 - 妄想感傷代償連盟をゲーム実況者が歌ってみた。【7万人記念】 https://www.youtube.com/watch?v=v-tF-wZcYw8
 - アイネクライネ - / ねが【歌ってみた】 https://www.youtube.com/watch?v=LADqRuJZgV4
 
