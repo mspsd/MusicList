@@ -24,6 +24,15 @@ Musics = `
 - ハロ／ハワユ :初音ミク https://www.youtube.com/watch?v=icFeeQqWAdw
 - DAYBREAK FRONTLINE :Orangestar / IA https://www.youtube.com/watch?v=emrt46SRyYs
 - さみしくてしにそうだ(2017.ver) :GUMI / 100回嘔吐 https://www.youtube.com/watch?v=hA-YhBLEcpA
+- 【HD】拝啓ドッペルゲンガー 【KEMU VOXX】Dear Doppelganger https://www.youtube.com/watch?v=grdy6rLbQ-c
+- Yasuha. - I Lost Your Love feat. Hatsune Miku　【初音ミク】キミを失って【オリジナル曲】 https://www.youtube.com/watch?v=sl1Hb2zl4V4
+- 【GUMI(40㍍)】 シリョクケンサ Eye Examination【オリジナル】 https://www.youtube.com/watch?v=aB-pIUzPB-I
+
+# 歌い手
+- 〔れをる〕 一心不乱 〔feat ill.bell,nqrse〕 https://www.youtube.com/watch?v=JES55S-l5RM
+- [実況者が歌う] ピースサイン/米津玄師 「ヒロアカ」歌ってみた。 https://www.youtube.com/watch?v=HUbCXrobSIY
+- 妄想感傷代償連盟をゲーム実況者が歌ってみた。【7万人記念】 https://www.youtube.com/watch?v=v-tF-wZcYw8
+- アイネクライネ - / ねが【歌ってみた】 https://www.youtube.com/watch?v=LADqRuJZgV4
 
 # 東方アレンジs
 - 【立体音響】リニューアルBad Apple!! https://www.youtube.com/watch?v=9iUaKmn8xSk
@@ -40,6 +49,8 @@ Musics = `
 - 「Chocological」 Original :H△G / Mili https://www.youtube.com/watch?v=hS08QpeIqIE
 - [BGA] MilK [BOFU2015] https://www.youtube.com/watch?v=2CJw_rihu5s
 - Chocological :Mili  https://www.youtube.com/watch?v=7mIUHWR6vIc
+- 【高音質版】Glorious Crown / xi  https://www.youtube.com/watch?v=FL9-Vv6O6Z8
+- [からめる]ENERGY SYNERGY MATRIX https://www.youtube.com/watch?v=zuzr-Q42a7s
 
 # BackGroundMusic(not RYTHEM)
 - A 440 Hz (Pitch Standard) Tone For Instrument Tuning https://www.youtube.com/watch?v=rFOl-9SNxLY
